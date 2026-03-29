@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+I'm Tommy ✨
+
+🚀 I love Statistics, ML and Simulations.
+
+📫 How to reach me: 
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/moretti-tommaso)
+
+
+
+
 <!--
 **morettitommaso/morettitommaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
