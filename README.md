@@ -10,7 +10,7 @@ I'm Tommy ✨
 - Gaussian Processes, Bayesian Optimization & Active Learning
 - Computational Statistics and Simulations
 
-🔬 Currently exploring how statistical learning methods can be used for adaptive decision-making and scientific problems.
+🔬 Currently exploring Bayesian and statistical learning methods for data-efficient modeling, adaptive experimentation, and complex simulations.
 
 📚 I enjoy building models from scratch, reproducing research papers, and developing implementations to better understand the theory behind modern ML methods.
 
