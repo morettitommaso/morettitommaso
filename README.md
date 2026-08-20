@@ -4,15 +4,7 @@ I'm Tommy ✨
 
 🎓 Statistics student at the University of Milano-Bicocca.
 
-🚀 Interested in:
-- Bayesian Statistics & Probabilistic Modeling
-- Machine Learning and Artificial Intelligence
-- Gaussian Processes, Bayesian Optimization & Active Learning
-- Computational Statistics and Simulations
-
-🔬 Currently exploring Bayesian and statistical learning methods for data-efficient modeling, adaptive experimentation, and complex simulations.
-
-📚 I enjoy building models from scratch, reproducing research papers, and developing implementations to better understand the theory behind modern ML methods.
+🚀 Interested in Bayesian Statistics, ML and Simulations!
 
 📫 How to reach me:
 
