@@ -1,11 +1,9 @@
 # Hi there 👋
 
-I'm Tommy ✨
+I'm Tommy, a passionate Statistics student at the University of Milano-Bicocca.
 
-🎓 Statistics student at the University of Milano-Bicocca.
+My interests include Bayesian statistics, ML, and optimization.
 
-🚀 Interested in Bayesian Statistics, ML and Simulations!
-
-📫 How to reach me:
+How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/moretti-tommaso)
